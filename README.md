@@ -16,6 +16,8 @@ Epson AcuLaser C1700
 
 Fuji-Xerox DocuPrint CP105b
 
+Xerox Phaser 6010N
+
 
 There's also an HBPLv2, already supported in Linux, which compresses image data more efficiently. Less expensive printers tend to avoid version 2, either because it requires more processing power, or because it uses patented technology.
 
